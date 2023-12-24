@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a090277a-c269-4fd9-b520-fdf3994be0f7" name="Changes" comment="" />
+    <list default="true" id="a9f5f760-eb26-4512-bbfa-8b8d5a2e4f92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Zx9LJz2eqeQeVnrBhXMZOezv0S" />
+  <component name="ProjectId" id="2a044NJ5H0QQ8jkKgmk5VaSlE0Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,11 +36,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a090277a-c269-4fd9-b520-fdf3994be0f7" name="Changes" comment="" />
-      <created>1703352809939</created>
+      <changelist id="a9f5f760-eb26-4512-bbfa-8b8d5a2e4f92" name="Changes" comment="" />
+      <created>1703441974026</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1703352809939</updated>
+      <updated>1703441974026</updated>
     </task>
     <servers />
   </component>
